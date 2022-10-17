@@ -21,6 +21,5 @@ Salary -- salary of an individual
 
 
 File: SalaryData_Test.csv
-     
-     SalaryData_Train.csv
+      SalaryData_Train.csv
      
