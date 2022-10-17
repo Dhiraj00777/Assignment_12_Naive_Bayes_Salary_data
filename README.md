@@ -20,7 +20,7 @@ native -- Native of an individual
 Salary -- salary of an individual
 
 
-File:SalaryData_Test.csv
+File: SalaryData_Test.csv
      
      SalaryData_Train.csv
      
